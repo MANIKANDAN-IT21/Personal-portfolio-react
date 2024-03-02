@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+first ul li {
+  @apply px-3 py-5;
+}
+
+.backfirst {
+  background: black;
+}
+.text {
+  color: #e4cb86;
+}
+
+.spaces {
+  display: flex;
+}
+.logo {
+  @apply px-3 py-5;
+}
+.backtext {
+  position: absolute;
+  color: #ffcf4c;
+  left: 25%;
+  top: 75%;
+}
+.backpra {
+  position: absolute;
+  color: #e4cb86;
+  left: 47%;
+  top: 90%;
+}
+.withpara {
+  /*width: 900px;*/
+  display: flex;
+  justify-content: space-between;
+}
+.box {
+  display: flex;
+}
+.btn {
+  @apply flex px-20 font-bold  hover:border-2 border-white rounded;
+}
+.bio {
+  position: relative;
+  top: 250px;
+  left: -250px;
+}
+.Achievement {
+  display: inline;
+}
+.autotype {
+  color: #ffcf4c;
+}
