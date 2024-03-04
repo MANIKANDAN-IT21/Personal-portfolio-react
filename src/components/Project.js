@@ -20,7 +20,7 @@ const Project = () => {
         </div>
         <div className="">
           <img className="h-[300px] hover:blur-sm" src={txt} />
-          <p className="font-bold">Create Web Page Image-to-Text Converter</p>
+          <p className="font-bold">Image-to-Text Converter With Reactjs</p>
         </div>
       </div>
     </div>

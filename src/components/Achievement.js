@@ -19,7 +19,13 @@ const Achievement = () => {
             <span className="font-bold text ">Rs 5000.</span>
           </p>
           <div>
-            <h1 className="ml-60 py-10 hover:text-white ">See more</h1>
+            <a
+              href="https://drive.google.com/drive/folders/17AjWv2duDJVcMQDm5UzmtgaAkN612RgM?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <h1 className="ml-40 py-10 hover:text-white">- Certificates -</h1>
+            </a>
           </div>
         </div>
       </div>

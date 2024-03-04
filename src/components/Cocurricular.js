@@ -23,7 +23,7 @@ const Cocurricular = () => {
         {" "}
         <h2 className="text-2xl">NOV-2023</h2>
         <p className="text-1xl ">
-          <span className="text-2xl">PAPER PRESENTATION</span>
+        <span className="text-2xl ">PAPER PRESENTATION</span>
           <br></br>
           <span className="text-white">
             National Conference on "Hindustan Institute of Technology" and

@@ -53,3 +53,6 @@ first ul li {
 .autotype {
   color: #ffcf4c;
 }
+html {
+  scroll-behavior: smooth;
+}
