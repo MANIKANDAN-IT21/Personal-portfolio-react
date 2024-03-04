@@ -11,8 +11,8 @@ const Resume = () => {
           <h1 className="text-5xl  py-5">Resume</h1>
           <p className="text-white">
             Experienced Full Stack Developer with proficiency in front-end
-            technologies like React and back-end technologies. Basic in database
-            management with MongoDB. .
+            technologies like React, PWA and also back-end technologies. Basic in
+            database management with MongoDB. .
             <br />
           </p>
           <button className="btn">
