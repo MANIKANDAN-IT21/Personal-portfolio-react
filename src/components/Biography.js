@@ -1,7 +1,7 @@
 import bio from "../assets/bio.jpg";
 const Biography = () => {
   return (
-    <div className="font-hero flex text backfirst py-20 " id="bio">
+    <div className="font-hero flex text backfirst py-20" id="bio">
       <h1 className="text-5xl py-20 ml-20 mt-14">Biography</h1>
 
       <div className="bio text-white">
@@ -15,7 +15,7 @@ const Biography = () => {
         </h1>
       </div>
 
-      <img className="h-[550px] mr-20" src={bio} />
+      <img className="h-[550px] w-auto max-w-full mr-20" src={bio} />
     </div>
   );
 };
